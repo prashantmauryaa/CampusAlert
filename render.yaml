@@ -19,3 +19,4 @@ services:
         generateValue: true # Auto-generate secure secret
       - key: FRONTEND_URL
         sync: false # Set this to your Vercel URL after deployment
+
